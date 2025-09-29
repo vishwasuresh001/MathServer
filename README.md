@@ -5,7 +5,7 @@
  To design a website to calculate the power of a lamp filament in an incandescent bulb in the server slide.
 
  ## FORMULA:
- 
+
 
 ## DESIGN STEPS:
 
@@ -137,11 +137,11 @@ def calculate_bmi(request):
 ## SERVER SIDE PROCESSING:
 
 
-![alt text](<Screenshot (23).png>)## 
+![alt text](<Screenshot (23).png>)
 
 ## HOMEPAGE:
 
-  ![alt text](<Screenshot 2025-09-29 183859.png>)## homepage:
+  ![alt text](<Screenshot 2025-09-29 183859.png>)
 
 
 
