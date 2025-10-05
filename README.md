@@ -2,10 +2,13 @@
 ## Date:
 
 ## AIM:
- To design a website to calculate the power of a lamp filament in an incandescent bulb in the server slide.
+ To design a website to calculate BMI in the server slide.
 
  ## FORMULA:
-
+BMI = W/H^2
+BMI --> Body Mass Index 
+W --> Weight 
+H --> Height
 
 ## DESIGN STEPS:
 
